@@ -1,0 +1,15 @@
+Key Features:
+
+
+1.    Maze Generation: Implement a basic algorithm to generate a random maze. This algorithm should create a maze layout with walls, corridors, and a designated start and end point.
+
+ 2.   Player Movement: Allow the player to navigate the maze by moving in four directions (up, down, left, and right). Ensure that the player cannot pass through walls or move outside the boundaries of the maze.
+
+   3. Collision Detection: Implement collision detection to prevent the player from moving through walls or obstacles. When the player attempts to move into a wall, the movement should be blocked.
+
+   4. Win Condition: Detect when the player reaches the end point of the maze. Display a message or trigger a win condition when the player successfully completes the maze.
+
+   5. User Interface: Create a simple graphical user interface (GUI) to display the maze and player movement. This could include a grid-based representation of the maze, with the player represented by a marker that moves through the maze.
+
+   6. Basic Controls: Provide basic controls for the player to navigate the maze. This could be arrow keys or WASD keys for movement, along with a restart or reset button to start a new maze.
+
